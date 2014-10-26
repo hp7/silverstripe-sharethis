@@ -6,42 +6,10 @@
 		.socialNetworkingHeader h5{text-align: right; display: none;}
 	.socialNetworkingList{}
 		.socialNetworkingList li{list-style :none!important;float: right;width: auto;}
-			.socialNetworkingList li a{padding:0 .1em; margin:0 0.5em; opacity:0.33; filter:alpha(opacity=33);}
+			.socialNetworkingList li a{padding: 0.1em;opacity:0.33; filter:alpha(opacity=33);}
 				.socialNetworkingList li a:hover{opacity:1;filter:alpha(opacity=100); text-decoration: none!important; border-bottom: none!important;}
 				.socialNetworkingList li a img{padding-right : 3px;}
 					.socialNetworkingList li a:hover img{margin-top: -1px; }
-
-
-
-
-
-
-
-
-
-/* With Font Awesome Horizontal Display Icons Only */
-.socialNetworkingHolder{float:right;}
-.socialNetworkingHeader {float:left;  margin-left: 1.5em; padding: 0.2em 0.75em;}
-.socialNetworkingHeader h5 {display:block; margin:0; padding:0; line-height:normal;}
-.socialNetworkingList {margin-left:auto!important; list-style-position: inside; float:right;}
-.socialNetworkingList li {list-style-type: none!important; padding:0;}
-.socialNetworkingList.fa-ul { }
-.socialNetworkingList.fa-ul li {padding:0; display:inline-block; }
-.socialNetworkingList.fa-ul li a {padding:0 0.15em; position:relative !important;}
-.socialNetworkingList.fa-ul li a .iconTitle { display:none;} 
-
-
-/* With Font Awesome Vertical Display Icons Only ===== Not Working yet ======= 
-.socialNetworkingHolder{float:right; clear:none; margin-left: 1.5em;}
-.socialNetworkingHeader {float:none; margin: 0 auto 0.75em auto; -ms-writing-mode: tb-lr; -webkit-writing-mode: vertical-lr; -moz-writing-mode: vertical-lr; -ms-writing-mode: vertical-lr; writing-mode: vertical-lr;}
-.socialNetworkingList.fa-ul li {padding:0.2em 0; display:block;}
-*/
-
-
-
-
-
-
 
 
 /*
